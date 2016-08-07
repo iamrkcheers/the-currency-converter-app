@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="fromCurrency_array">
+        <item> .. Choose Currency .. </item>
+        <item>(AUD)Australian Dollar</item>
+        <item>(BRL)Brazilian Real</item>
+        <item>(BGN)Bulgarian Leva</item>
+        <item>(CAD)Canadian Dollar</item>
+        <item>(CNY)Chinese Yuan</item>
+        <item>(HRK)Croatian Kuna</item>
+        <item>(CZK)Czech Republic Koruna</item>
+        <item>(DKK)Danish Krone</item>
+        <item>(EUR)Euro</item>
+        <item>(GBP)Great British Pound</item>
+        <item>(HKD)Hong Kong Dollar</item>
+        <item>(HUF)Hungarian Forint</item>
+        <item>(INR)Indian National Rupees</item>
+        <item>(IDR)Indonesian Rupiah</item>
+        <item>(ILS)Israeli New Sheqel</item>
+        <item>(JPY)Japanese Yen</item>
+        <item>(MYR)Malaysian Ringgit</item>
+        <item>(MXN)Mexican Peso</item>
+        <item>(NZD)New Zealand Dollar</item>
+        <item>(NOK)Norwegian Krone</item>
+        <item>(PHP)Philippine Peso</item>
+        <item>(PLN)Polish Zloty</item>
+        <item>(RON)Romanian Leu</item>
+        <item>(RUB)Russian Ruble</item>
+        <item>(SGD)Singapore Dollar</item>
+        <item>(ZAR)South African Rand</item>
+        <item>(KRW)South Korean Won</item>
+        <item>(SEK)Swedish Krona</item>
+        <item>(CHF)Swiss Franc</item>
+        <item>(THB)Thai Baht</item>
+        <item>(TRY)Turkish Lira</item>
+        <item>(USD)US Dollar</item>
+    </string-array>
+    <string-array name="toCurrency_array">
+        <item> .. Choose Currency .. </item>
+        <item>(AUD)Australian Dollar</item>
+        <item>(BRL)Brazilian Real</item>
+        <item>(BGN)Bulgarian Leva</item>
+        <item>(CAD)Canadian Dollar</item>
+        <item>(CNY)Chinese Yuan</item>
+        <item>(HRK)Croatian Kuna</item>
+        <item>(CZK)Czech Republic Koruna</item>
+        <item>(DKK)Danish Krone</item>
+        <item>(EUR)Euro</item>
+        <item>(GBP)Great British Pound</item>
+        <item>(HKD)Hong Kong Dollar</item>
+        <item>(HUF)Hungarian Forint</item>
+        <item>(INR)Indian National Rupees</item>
+        <item>(IDR)Indonesian Rupiah</item>
+        <item>(ILS)Israeli New Sheqel</item>
+        <item>(JPY)Japanese Yen</item>
+        <item>(MYR)Malaysian Ringgit</item>
+        <item>(MXN)Mexican Peso</item>
+        <item>(NZD)New Zealand Dollar</item>
+        <item>(NOK)Norwegian Krone</item>
+        <item>(PHP)Philippine Peso</item>
+        <item>(PLN)Polish Zloty</item>
+        <item>(RON)Romanian Leu</item>
+        <item>(RUB)Russian Ruble</item>
+        <item>(SGD)Singapore Dollar</item>
+        <item>(ZAR)South African Rand</item>
+        <item>(KRW)South Korean Won</item>
+        <item>(SEK)Swedish Krona</item>
+        <item>(CHF)Swiss Franc</item>
+        <item>(THB)Thai Baht</item>
+        <item>(TRY)Turkish Lira</item>
+        <item>(USD)US Dollar</item>
+    </string-array>
+</resources>
