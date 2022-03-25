@@ -1,4 +1,4 @@
-# The-Currency-Converter-App
+# the-currency-converter-app
 
 A simple, straight forward currency converter app.</br>
 Plain & Efficient.</br>
